@@ -26,10 +26,10 @@ dependencies {
 apply plugin: 'com.novoda.bintray-release'
 publish {
     userOrg = 'hanks-zyh'
-    groupId = 'com.hanks'
+    groupId = 'com.imtech.tsmmobile.common'
     uploadName = 'PasscodeView'
     artifactId = 'passcodeview'
-    publishVersion = '0.1.2'
+    publishVersion = '0.0.1'
     desc = 'PasscodeView'
-    website = 'https://github.com/hanks-zyh/PasscodeView'
+    website = 'https://github.com/IMTINC/android_passcode_view'
 }
